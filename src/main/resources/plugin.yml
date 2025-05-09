@@ -1,0 +1,4 @@
+name: rpgCore
+version: '${version}'
+main: org.example.contentplugin.rpgcore.RpgCore
+api-version: '1.21'

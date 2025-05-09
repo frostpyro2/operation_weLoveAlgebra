@@ -20,4 +20,8 @@ public class Guild implements TeamSystem {
         member.add(data);
     }
 
+
+    public void setLeader(EntityData newLeader){
+        leader = newLeader;
+    }
 }

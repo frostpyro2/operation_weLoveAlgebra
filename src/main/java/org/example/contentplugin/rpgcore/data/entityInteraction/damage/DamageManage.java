@@ -15,7 +15,7 @@ public class DamageManage {
 
     private AttackData prototype1(EntityDamageEvent event){
         LivingEntity entity = (LivingEntity) event.getEntity();
-        if(event instanceof EntityDamageByEntityEvent){
+        if(event instanceof EntityDamageByEntityEvent real){
 
         }
 
